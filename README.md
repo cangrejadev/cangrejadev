@@ -16,9 +16,9 @@
   Soy activista del software libre, apasionada por crear productos y proyectos digitales, explorar el potencial de los datos y la IA, y empoderar a más mujeres para que creen, lideren y transformen el mundo con tecnología.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/[tu-usuario]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[tu-correo]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://[tu-sitio-web]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/alejandrazerda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aleja533@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://alejandrazerda.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 ---
  
@@ -26,11 +26,13 @@
  
 - 💼 Actualmente soy **Technical Manager en [Campaign Creators](https://[url-empresa])**, liderando implementaciones técnicas para clientes.
 - 🧭 Vengo de la **gestión de proyectos** y el **desarrollo web**: hablo el idioma del negocio y el del código.
-- 🌎 Organizo y apoyo **comunidades tech en Colombia y LATAM** — [nombre de comunidades / eventos].
+- 🌎 Organizo y apoyo **comunidades tech en Colombia y LATAM** — Ubuntu Colombia, She Data.
 - 🐧 Soy **activista del software libre**: promuevo el conocimiento abierto y la tecnología como bien común.
 - 🤖 Me apasiona la **automatización y la IA aplicada**: agentes, flujos con n8n y herramientas que ahorran tiempo real.
 - 🗣️ Trabajo en **español e inglés**.
-- 📫 Escríbeme sobre: [gestión de proyectos, automatización, comunidades, mentorías…]
+- 📫 Escríbeme sobre: Inteligencia artificial, Software Libre y desarrollo Web
+
+  
 ## 🇺🇸 About me
  
 Technical Manager with a background in project management and web development. I bridge business goals and technical execution, build automation and AI-powered workflows, and help grow tech communities across Colombia and Latin America. Free software activist.
@@ -74,7 +76,7 @@ Technical Manager with a background in project management and web development. I
 |---|---|---|
 | [**FinBot**](https://github.com/[tu-usuario]/[repo]) | Ecosistema de automatización de finanzas personales con IA. | Gemini · n8n · React · Supabase |
 | [**Checky dApp**](https://github.com/cangrejadev/checkyapp) | dApp Web3 que verifica la legitimidad de fuentes de noticias por consenso, con incentivos por staking. 🏆 Premiada en ETHGlobal. | Next.js · Tailwind · Solidity · UMA · WalletConnect · Lens |
-| [**[Nombre proyecto 3]**](https://github.com/[tu-usuario]/[repo]) | [Qué problema resuelve en una línea.] | [Tecnologías] |
+
 
 ---
 
