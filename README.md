@@ -1,4 +1,11 @@
-
+<!-- 
+  PLANTILLA DE PERFIL DE GITHUB
+  Cómo usarla:
+  1. Crea un repositorio público con el MISMO nombre que tu usuario de GitHub (ej. github.com/tu-usuario/tu-usuario).
+  2. Pega este contenido en su README.md.
+  3. Reemplaza todo lo que esté entre [corchetes] y borra las secciones que no uses.
+-->
+ 
 <h1 align="center">Hola, soy Alejandra 👋 · Hi, I'm Alejandra</h1>
  
 <p align="center">
