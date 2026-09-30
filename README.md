@@ -62,10 +62,11 @@ Technical Manager with a background in project management and web development. I
 
 ## 🚀 Proyectos destacados
 
+
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**FinBot**](https://github.com/[tu-usuario]/[repo]) | Ecosistema de automatización de finanzas personales con IA. | Gemini · n8n · React · Supabase |
-| [**[Nombre proyecto 2]**](https://github.com/[tu-usuario]/[repo]) | [Qué problema resuelve en una línea.] | [Tecnologías] |
+| [**Checky dApp**](https://github.com/cangrejadev/checkyapp) | dApp Web3 que verifica la legitimidad de fuentes de noticias por consenso, con incentivos por staking. 🏆 Premiada en ETHGlobal. | Next.js · Tailwind · Solidity · UMA · WalletConnect · Lens |
 | [**[Nombre proyecto 3]**](https://github.com/[tu-usuario]/[repo]) | [Qué problema resuelve en una línea.] | [Tecnologías] |
 
 ---
